@@ -1,0 +1,49 @@
+<!--ts-->
+   * [tutorial](#tutorial)
+
+<!-- Added by: dmw, at: Tue  3 Dec 19:11:19 GMT 2019 -->
+
+<!--te-->
+
+
+# tutorial
+Work-in-progress crash course explaining how Airmash works and how to hack on it
+
+
+
+# Concepts
+
+## Circles.. everywhere
+
+## Mobs
+
+## Mountains
+
+## Players
+
+## Particles & Sprites
+
+## Graphics - pixi.js
+
+## Sound - howler.js
+
+## UI - jQuery
+
+## Networking
+
+## Movement Prediction
+
+
+
+# Networking In Depth
+
+## Scoreboard -- 
+
+## Chat -- CHAT_PUBLIC / CHAT_TEAM / CHAT_SAY / CHAT_WHISPER
+
+## Votes -- CHAT_VOTEMUTED / CHAT_VOTEMUTEPASSED
+
+## Spawning/Modifying A Mob -- MOB_UPDATE
+
+## Removing A Mob -- MOB_DESPAWN
+
