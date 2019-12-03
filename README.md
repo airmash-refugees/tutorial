@@ -106,6 +106,10 @@ handles things like scoreboards, "destroyed by" messages etc.
 
 primary / backup websockets. the backup gives a 50% reduction in chance of critical message being delayed by TCP "retransmit timer". describe which messages are sent using both vs. just primary
 
+messages are encoded in binary using a pretty cool custom encoding. in js they are represented as objects with nice named properties, on the wire they're junk
+
+client ignores message ids it doesn't know about, so some extension is possible without breaking starmash
+
 
 ## Clock
 
@@ -144,4 +148,6 @@ Client / server both maintain key state. Server uses it to generate canonical mo
 ## Spawning/Modifying A Mob -- MOB_UPDATE
 
 ## Removing A Mob -- MOB_DESPAWN
+
+custom messages
 
