@@ -39,6 +39,26 @@ game internally represents all objects as circles. most planes are 3 circles. mi
 
 include screenshots of planes with their circles overlaid, include mountain map with circles etc
 
+tornados are real dicks:
+
+![](tornado-circles.png)
+
+heli:
+
+![](heli-circles.png)
+
+now you know why it's easier to hit a heli side-on than front on!
+
+goli:
+
+![](goli-circles.png)
+
+prow:
+
+![](prowler-circles.png)
+
+
+
 ## Mobs
 
 boxes and missiles are 'mobs'. they have associated velocity and when plane collides with them, server does interesting things
