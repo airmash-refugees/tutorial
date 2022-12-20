@@ -1,5 +1,6 @@
 <!--ts-->
    * [tutorial](#tutorial)
+   * [hosting a server](hosting.md)  
    * [Concepts](#concepts)
       * [Circles.. everywhere](#circles-everywhere)
       * [Mobs](#mobs)
